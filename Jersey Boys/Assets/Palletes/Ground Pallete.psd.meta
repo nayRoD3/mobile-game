@@ -1,0 +1,1107 @@
+fileFormatVersion: 2
+guid: ea1f1582c33223e4ab07f723104f5644
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 787066368253654702
+    second: Ground Pallete_0
+  - first:
+      213: 1362017040923280460
+    second: Ground Pallete_1
+  - first:
+      213: 475708943586023179
+    second: Ground Pallete_2
+  - first:
+      213: -2064904009360991489
+    second: Ground Pallete_3
+  - first:
+      213: -8308213290371587742
+    second: Ground Pallete_4
+  - first:
+      213: 2417012491651588992
+    second: Ground Pallete_5
+  - first:
+      213: -4573791928846483768
+    second: Ground Pallete_6
+  - first:
+      213: -2437825249587406355
+    second: Ground Pallete_7
+  - first:
+      213: 5767215333069400556
+    second: Ground Pallete_8
+  - first:
+      213: -5273154493538186210
+    second: Ground Pallete_9
+  - first:
+      213: 5197393626846785780
+    second: Ground Pallete_10
+  - first:
+      213: 7277989852560735902
+    second: Ground Pallete_11
+  - first:
+      213: -5328648209085170876
+    second: Ground Pallete_12
+  - first:
+      213: 8450024053439249124
+    second: Ground Pallete_13
+  - first:
+      213: -7331744202981833500
+    second: Ground Pallete_14
+  - first:
+      213: -8293559554356087723
+    second: Ground Pallete_15
+  - first:
+      213: -5708687658785648619
+    second: Ground Pallete_16
+  - first:
+      213: 6032233774320830323
+    second: Ground Pallete_17
+  - first:
+      213: -2438186391308382282
+    second: Ground Pallete_18
+  - first:
+      213: -7283624957852192763
+    second: Ground Pallete_19
+  - first:
+      213: 8782872523371127550
+    second: Ground Pallete_20
+  - first:
+      213: 2112316939760987428
+    second: Ground Pallete_21
+  - first:
+      213: -830467821034538219
+    second: Ground Pallete_22
+  - first:
+      213: -5426328655251039317
+    second: Ground Pallete_23
+  - first:
+      213: -1633909192622529036
+    second: Ground Pallete_24
+  - first:
+      213: 2963759892711860336
+    second: Ground Pallete_25
+  - first:
+      213: -3235593299063399613
+    second: Ground Pallete_26
+  - first:
+      213: -37549207178669842
+    second: Ground Pallete_27
+  - first:
+      213: 3915669487982118512
+    second: Ground Pallete_28
+  - first:
+      213: 5072202606906079722
+    second: Ground Pallete_29
+  - first:
+      213: -6539356915699043590
+    second: Ground Pallete_30
+  - first:
+      213: -7524580196401337486
+    second: Ground Pallete_31
+  - first:
+      213: 8822259061370459215
+    second: Ground Pallete_32
+  - first:
+      213: -1420314659115403382
+    second: Ground Pallete_33
+  - first:
+      213: 4834276668901965386
+    second: Ground Pallete_34
+  - first:
+      213: 9009663671578404545
+    second: Ground Pallete_35
+  - first:
+      213: -164898895177886931
+    second: Ground Pallete_36
+  - first:
+      213: -6559164371323377743
+    second: Ground Pallete_37
+  - first:
+      213: -5550804661463600800
+    second: Ground Pallete_38
+  - first:
+      213: 4383024805338315296
+    second: Ground Pallete_39
+  - first:
+      213: 1728921893934265766
+    second: Ground Pallete_40
+  - first:
+      213: 1760372766943575225
+    second: Ground Pallete_41
+  - first:
+      213: 9198659977632784968
+    second: Ground Pallete_42
+  - first:
+      213: -7837976901991805002
+    second: Ground Pallete_43
+  - first:
+      213: 4066034828048450245
+    second: Ground Pallete_44
+  - first:
+      213: -7201551813911161683
+    second: Ground Pallete_45
+  - first:
+      213: 952363393114571501
+    second: Ground Pallete_46
+  - first:
+      213: 2001830227359866158
+    second: Ground Pallete_47
+  - first:
+      213: 7715872383663779073
+    second: Ground Pallete_48
+  - first:
+      213: -6423746191389320788
+    second: Ground Pallete_49
+  - first:
+      213: -6939910000839103314
+    second: Ground Pallete_50
+  - first:
+      213: -3754026979922765567
+    second: Ground Pallete_51
+  - first:
+      213: 7465659171353150527
+    second: Ground Pallete_52
+  - first:
+      213: 7993632601484382911
+    second: Ground Pallete_53
+  - first:
+      213: 518109421541616357
+    second: Ground Pallete_54
+  - first:
+      213: 3553115135465341267
+    second: Ground Pallete_55
+  - first:
+      213: -5842741113406842816
+    second: Ground Pallete_56
+  - first:
+      213: -7265961087575827099
+    second: Ground Pallete_57
+  - first:
+      213: 3021292227261737390
+    second: Ground Pallete_58
+  - first:
+      213: 8651120983170460304
+    second: Ground Pallete_59
+  - first:
+      213: -8339676892331307906
+    second: Ground Pallete_60
+  - first:
+      213: -1665519593205784153
+    second: Ground Pallete_61
+  - first:
+      213: 9044690757189778580
+    second: Ground Pallete_62
+  - first:
+      213: -2341293942998780189
+    second: Ground Pallete_63
+  - first:
+      213: -6457505067119624577
+    second: Ground Pallete_64
+  - first:
+      213: -372738492975251837
+    second: Ground Pallete_65
+  - first:
+      213: 692845313592180018
+    second: Ground Pallete_66
+  - first:
+      213: -3420760390298149570
+    second: Ground Pallete_67
+  - first:
+      213: 2874041171564042940
+    second: Ground Pallete_68
+  - first:
+      213: 8682497821194498084
+    second: Ground Pallete_69
+  - first:
+      213: -6448800738834233909
+    second: Ground Pallete_70
+  - first:
+      213: -4024567069738640519
+    second: Ground Pallete_71
+  - first:
+      213: -6888967535879682367
+    second: Ground Pallete_72
+  - first:
+      213: 9138728560084789493
+    second: Ground Pallete_73
+  - first:
+      213: -178674157975940094
+    second: Ground Pallete_74
+  - first:
+      213: -7544985984965114527
+    second: Ground Pallete_75
+  - first:
+      213: 4600773826849206555
+    second: Ground Pallete_76
+  - first:
+      213: -6630951558436150204
+    second: Ground Pallete_77
+  - first:
+      213: 8733850840515320696
+    second: Ground Pallete_78
+  - first:
+      213: 3983051338249645612
+    second: Ground Pallete_79
+  - first:
+      213: 1856180896349383236
+    second: Ground Pallete_80
+  - first:
+      213: -4220589853072632871
+    second: Ground Pallete_81
+  - first:
+      213: 5536007907456182836
+    second: Ground Pallete_82
+  - first:
+      213: 393009201504716460
+    second: Ground Pallete_83
+  - first:
+      213: -560737644926619520
+    second: Ground Pallete_84
+  - first:
+      213: 2983072452147227901
+    second: Ground Pallete_85
+  - first:
+      213: -4789593234094210825
+    second: Ground Pallete_86
+  - first:
+      213: -2960982024258850102
+    second: Ground Pallete_87
+  - first:
+      213: 6099415707633186771
+    second: Ground Pallete_88
+  - first:
+      213: -7941829560634939461
+    second: Ground Pallete_89
+  - first:
+      213: -6275549680454507464
+    second: Ground Pallete_90
+  - first:
+      213: 8581988964362037446
+    second: Ground Pallete_91
+  - first:
+      213: -4843722798829796706
+    second: Ground Pallete_92
+  - first:
+      213: -8108138532773249802
+    second: Ground Pallete_93
+  - first:
+      213: -1916811423650007279
+    second: Ground Pallete_94
+  - first:
+      213: -2976453186619140879
+    second: Ground Pallete_95
+  - first:
+      213: 996646336573579209
+    second: Ground Pallete_96
+  - first:
+      213: -4883359858542944393
+    second: Ground Pallete_97
+  - first:
+      213: 661285228671871399
+    second: Ground Pallete_98
+  - first:
+      213: -3544765983766891851
+    second: Ground Pallete_99
+  - first:
+      213: 1670551511498506219
+    second: Ground Pallete_100
+  - first:
+      213: 7893220840650287728
+    second: Ground Pallete_101
+  - first:
+      213: 5850299163660970775
+    second: Ground Pallete_102
+  - first:
+      213: -64180213997509043
+    second: Ground Pallete_103
+  - first:
+      213: -5526446929383534733
+    second: Ground Pallete_104
+  - first:
+      213: -3711667754281934138
+    second: Ground Pallete_105
+  - first:
+      213: 2613502332085947133
+    second: Ground Pallete_106
+  - first:
+      213: -526654881088471474
+    second: Ground Pallete_107
+  - first:
+      213: -738921684358222247
+    second: Ground Pallete_108
+  - first:
+      213: -6429571130321106991
+    second: Ground Pallete_109
+  - first:
+      213: 7427826966339145470
+    second: Ground Pallete_110
+  - first:
+      213: 1357737303080027941
+    second: Ground Pallete_111
+  - first:
+      213: 1387815126543972762
+    second: Ground Pallete_112
+  - first:
+      213: -8153610848723149247
+    second: Ground Pallete_113
+  - first:
+      213: 8129276028180145299
+    second: Ground Pallete_114
+  - first:
+      213: -3831605773892831932
+    second: Ground Pallete_115
+  - first:
+      213: 8366736758602442615
+    second: Ground Pallete_116
+  - first:
+      213: -8198161739042775983
+    second: Ground Pallete_117
+  - first:
+      213: -7045611757499567902
+    second: Ground Pallete_118
+  - first:
+      213: -7161525036471120949
+    second: Ground Pallete_119
+  - first:
+      213: 2098860734038366410
+    second: Ground Pallete_120
+  - first:
+      213: -3963959194224025622
+    second: Ground Pallete_121
+  - first:
+      213: 1916330699143386131
+    second: Ground Pallete_122
+  - first:
+      213: 7869852183362118255
+    second: Ground Pallete_123
+  - first:
+      213: -6368442951742919530
+    second: Ground Pallete_124
+  - first:
+      213: -7620327688125585966
+    second: Ground Pallete_125
+  - first:
+      213: -4157868118805091627
+    second: Ground Pallete_126
+  - first:
+      213: 4357548595249486762
+    second: Ground Pallete_127
+  - first:
+      213: 3891073551578239709
+    second: Ground Pallete_128
+  - first:
+      213: 6224783656449942692
+    second: Ground Pallete_129
+  - first:
+      213: -7636297481761811296
+    second: Ground Pallete_130
+  - first:
+      213: 3573429295489568693
+    second: Ground Pallete_131
+  - first:
+      213: -1979232898036048275
+    second: Ground Pallete_132
+  - first:
+      213: -8985510628834932848
+    second: Ground Pallete_133
+  - first:
+      213: 251664804631602329
+    second: Ground Pallete_134
+  - first:
+      213: -2180562230517154075
+    second: Ground Pallete_135
+  - first:
+      213: -5345336387775869730
+    second: Ground Pallete_136
+  - first:
+      213: -1181942489658293280
+    second: Ground Pallete_137
+  - first:
+      213: -1547616446343134410
+    second: Ground Pallete_138
+  - first:
+      213: -1674069815559704578
+    second: Ground Pallete_139
+  - first:
+      213: -5917533305619905151
+    second: Ground Pallete_140
+  - first:
+      213: -2757945509489845039
+    second: Ground Pallete_141
+  - first:
+      213: 6899157414524712334
+    second: Ground Pallete_142
+  - first:
+      213: 7250894838436732690
+    second: Ground Pallete_143
+  - first:
+      213: -4632020264819143776
+    second: Ground Pallete_144
+  - first:
+      213: -1050236981422034443
+    second: Ground Pallete_145
+  - first:
+      213: -8220021010415030832
+    second: Ground Pallete_146
+  - first:
+      213: 8575760161264726367
+    second: Ground Pallete_147
+  - first:
+      213: 7238248474419352228
+    second: Ground Pallete_148
+  - first:
+      213: 7764658745767486219
+    second: Ground Pallete_149
+  - first:
+      213: 1725617254497892211
+    second: Ground Pallete_150
+  - first:
+      213: 1434284638875345161
+    second: Ground Pallete_151
+  - first:
+      213: 3800645664200859712
+    second: Ground Pallete_152
+  - first:
+      213: 6299304396419720149
+    second: Ground Pallete_153
+  - first:
+      213: 5616165774245070843
+    second: Ground Pallete_154
+  - first:
+      213: 2508011213969263500
+    second: Ground Pallete_155
+  - first:
+      213: -4105281319511320160
+    second: Ground Pallete_156
+  - first:
+      213: 4263424465194693921
+    second: Ground Pallete_157
+  - first:
+      213: 498916660071946688
+    second: Ground Pallete_158
+  - first:
+      213: 6792106053409995504
+    second: Ground Pallete_159
+  - first:
+      213: 1774066671729140982
+    second: Ground Pallete_160
+  - first:
+      213: 4374346816587728765
+    second: Ground Pallete_161
+  - first:
+      213: -2656253484249328728
+    second: Ground Pallete_162
+  - first:
+      213: -2141370060594992296
+    second: Ground Pallete_163
+  - first:
+      213: 5700191015273406521
+    second: Ground Pallete_164
+  - first:
+      213: -4140177427884689567
+    second: Ground Pallete_165
+  - first:
+      213: -1804095972216979588
+    second: Ground Pallete_166
+  - first:
+      213: -1585856937183168784
+    second: Ground Pallete_167
+  - first:
+      213: -148733741447393190
+    second: Ground Pallete_168
+  - first:
+      213: -6521120261607812155
+    second: Ground Pallete_169
+  - first:
+      213: -7822538934305245981
+    second: Ground Pallete_170
+  - first:
+      213: 2346003824751343820
+    second: Ground Pallete_171
+  - first:
+      213: -5874625672094158591
+    second: Ground Pallete_172
+  - first:
+      213: 1603656118653734315
+    second: Ground Pallete_173
+  - first:
+      213: -4509248122464587969
+    second: Ground Pallete_174
+  - first:
+      213: 693970185100872724
+    second: Ground Pallete_175
+  - first:
+      213: -3047232970464293927
+    second: Ground Pallete_176
+  - first:
+      213: 794664897373303934
+    second: Ground Pallete_177
+  - first:
+      213: 7579113523291799999
+    second: Ground Pallete_178
+  - first:
+      213: -4920166205435276781
+    second: Ground Pallete_179
+  - first:
+      213: 2842471954028199520
+    second: Ground Pallete_180
+  - first:
+      213: -915894469317048668
+    second: Ground Pallete_181
+  - first:
+      213: 7760991702773708454
+    second: Ground Pallete_182
+  - first:
+      213: -935991428680849340
+    second: Ground Pallete_183
+  - first:
+      213: 439775065776497726
+    second: Ground Pallete_184
+  - first:
+      213: -4268042889077065136
+    second: Ground Pallete_185
+  - first:
+      213: 2466003389931280732
+    second: Ground Pallete_186
+  - first:
+      213: -7897903578949784221
+    second: Ground Pallete_187
+  - first:
+      213: 1345064666972494217
+    second: Ground Pallete_188
+  - first:
+      213: -7106952409427760977
+    second: Ground Pallete_189
+  - first:
+      213: -7133881579357220419
+    second: Ground Pallete_190
+  - first:
+      213: -457239205989707001
+    second: Ground Pallete_191
+  - first:
+      213: 7562946086190661590
+    second: Ground Pallete_192
+  - first:
+      213: -5484104990106022426
+    second: Ground Pallete_193
+  - first:
+      213: -7693969533287676058
+    second: Ground Pallete_194
+  - first:
+      213: -4324378937612210643
+    second: Ground Pallete_195
+  - first:
+      213: 5733042634061759342
+    second: Ground Pallete_196
+  - first:
+      213: -5171734810742390825
+    second: Ground Pallete_197
+  - first:
+      213: 9047891520029369515
+    second: Ground Pallete_198
+  - first:
+      213: -5412865629132485581
+    second: Ground Pallete_199
+  - first:
+      213: -1194152173610937567
+    second: Ground Pallete_200
+  - first:
+      213: -4984785922648513842
+    second: Ground Pallete_201
+  - first:
+      213: 2096002298899191384
+    second: Ground Pallete_202
+  - first:
+      213: -145229906205733912
+    second: Ground Pallete_203
+  - first:
+      213: -5202249207646336351
+    second: Ground Pallete_204
+  - first:
+      213: 6831404468206458636
+    second: Ground Pallete_205
+  - first:
+      213: 938002684388309173
+    second: Ground Pallete_206
+  - first:
+      213: 8480240424101680007
+    second: Ground Pallete_207
+  - first:
+      213: 7741180545035685485
+    second: Ground Pallete_208
+  - first:
+      213: 1366297022775310329
+    second: Ground Pallete_209
+  - first:
+      213: -3934777147628955006
+    second: Ground Pallete_210
+  - first:
+      213: -6048214812364492148
+    second: Ground Pallete_211
+  - first:
+      213: -4356529806158777502
+    second: Ground Pallete_212
+  - first:
+      213: -1556055057410710310
+    second: Ground Pallete_213
+  - first:
+      213: 7924845213471084491
+    second: Ground Pallete_214
+  - first:
+      213: -507879065961358242
+    second: Ground Pallete_215
+  - first:
+      213: -3153768104598378655
+    second: Ground Pallete_216
+  - first:
+      213: 5907717693371289664
+    second: Ground Pallete_217
+  - first:
+      213: -5723066009685888794
+    second: Ground Pallete_218
+  - first:
+      213: -764756538958306140
+    second: Ground Pallete_219
+  - first:
+      213: 2723425211166304951
+    second: Ground Pallete_220
+  - first:
+      213: -6081924273580367331
+    second: Ground Pallete_221
+  - first:
+      213: -4917444349860263498
+    second: Ground Pallete_222
+  - first:
+      213: -5536069707675063126
+    second: Ground Pallete_223
+  - first:
+      213: 1967932474428441826
+    second: Ground Pallete_224
+  - first:
+      213: 7260960428348832531
+    second: Ground Pallete_225
+  - first:
+      213: -1632996381670178876
+    second: Ground Pallete_226
+  - first:
+      213: 7084708164534484412
+    second: Ground Pallete_227
+  - first:
+      213: -2257891293498504459
+    second: Ground Pallete_228
+  - first:
+      213: 513205583807820972
+    second: Ground Pallete_229
+  - first:
+      213: -1573479171234608439
+    second: Ground Pallete_230
+  - first:
+      213: -3980624243561216389
+    second: Ground Pallete_231
+  - first:
+      213: -8769692433993343804
+    second: Ground Pallete_232
+  - first:
+      213: -3735915090036241994
+    second: Ground Pallete_233
+  - first:
+      213: -2127557053227094681
+    second: Ground Pallete_234
+  - first:
+      213: 6671562337529513626
+    second: Ground Pallete_235
+  - first:
+      213: -8959257322278694637
+    second: Ground Pallete_236
+  - first:
+      213: 5108237894669371296
+    second: Ground Pallete_237
+  - first:
+      213: 4613201284301576312
+    second: Ground Pallete_238
+  - first:
+      213: -5110106358681239425
+    second: Ground Pallete_239
+  - first:
+      213: 5011012360832437906
+    second: Ground Pallete_240
+  - first:
+      213: -44653286738340187
+    second: Ground Pallete_241
+  - first:
+      213: -5969172006009602862
+    second: Ground Pallete_242
+  - first:
+      213: 1158022826092843732
+    second: Ground Pallete_243
+  - first:
+      213: -8084163486323377336
+    second: Ground Pallete_244
+  - first:
+      213: -6750254746681518355
+    second: Ground Pallete_245
+  - first:
+      213: -341241270709647066
+    second: Ground Pallete_246
+  - first:
+      213: 8005625587625325085
+    second: Ground Pallete_247
+  - first:
+      213: 5520677475791381191
+    second: Ground Pallete_248
+  - first:
+      213: 5436631503120835974
+    second: Ground Pallete_249
+  - first:
+      213: -1850094800522788768
+    second: Ground Pallete_250
+  - first:
+      213: -4920385589779539144
+    second: Ground Pallete_251
+  - first:
+      213: -7003296821257641592
+    second: Ground Pallete_252
+  - first:
+      213: -2934675340313842350
+    second: Ground Pallete_253
+  - first:
+      213: -8585917100101091797
+    second: Ground Pallete_254
+  - first:
+      213: -6254740611951138580
+    second: Ground Pallete_255
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ground Pallete_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea67a6e11b83cea00800000000000000
+      internalID: 787066368253654702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Pallete_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44c24e484bd6e210800000000000000
+      internalID: 1362017040923280460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Pallete_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07dbe683ce0a9600800000000000000
+      internalID: 475708943586023179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Pallete_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa12ca6ebcf753e0800000000000000
+      internalID: -2064904009360991489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Pallete_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261e83df70c43bc80800000000000000
+      internalID: -8308213290371587742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Pallete_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08323962e04fa8120800000000000000
+      internalID: 2417012491651588992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Pallete_6
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce7e844970a680c0800000000000000
+      internalID: -4573791928846483768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Pallete_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de95dd50ada1b2ed0800000000000000
+      internalID: -2437825249587406355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Pallete_8
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9a9c61ac3490050800000000000000
+      internalID: 5767215333069400556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Pallete_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1cc6ee2dedf1d6b0800000000000000
+      internalID: -5273154493538186210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Pallete_10
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0f41677f9d02840800000000000000
+      internalID: 5197393626846785780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
